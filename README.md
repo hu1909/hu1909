@@ -1,16 +1,17 @@
-### Hi there 👋
+### Boujour, I'm Quoc Hung !!! 👋
 
-<!--
-**hu1909/hu1909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Learner !!
+<
+This is a ✨ _special_ ✨ repository because its tell you something about me. I'm willing to learn a new thing because I am really love technology. 🌱 I’m currently learning Web Development but it's just a foundation step , my really goal is that I have a huge knowledge about Iot aspect 🔭. 
 
-Here are some ideas to get you started:
+## 📫 How to reach me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
+[instagram]: https://www.instagram.com/nq.hhung/
+[linkedin]: www.linkedin.com/in/hung-nguyen-quoc2001
+[facebook]: https://www.facebook.com/profile.php?id=100004350407026
+
 -->
