@@ -1,4 +1,4 @@
-### Boujour, I'm Quoc Hung !!! 👋
+### Boujour, Je suis Quoc Hung !!! 👋
 
 ## I'm a Learner !!
 
