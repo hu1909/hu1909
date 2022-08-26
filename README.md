@@ -14,7 +14,7 @@ This is a ✨ _special_ ✨ repository because its tell you a very short thing a
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-[linkedin]: www.linkedin.com/in/hung-nguyen-quoc2001
+[linkedin]: https://www.linkedin.com/in/hung-nguyen1909/
 [facebook]: https://www.facebook.com/profile.php?id=100004350407026
 
 >
