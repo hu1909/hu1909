@@ -7,14 +7,21 @@
   <img align="center" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="drawing" width="50" />
 </p>
 
-This is a ✨ _special_ ✨ repository because its tell you a very short thing about me. I'm willing to learn a new thing because I am really love technology. 🌱 My really goal 🥅 is that I have a huge knowledge about all aspect of IT ⚡⚡. 
 
-## 📫 How to reach me 
+## About Me 👨‍💻
+Hi there! I’m Hung, a passionate DevOps and Systems Engineer which focus on automation, cloud computing, CI/CD pipelines, etc. With almost 2 years of experience in the IT industry, I enjoy solving complex problems and optimizing systems to enhance efficiency and performance.
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+### 🛠️ My Expertise
+- DevOps: Continuous Integration/Continuous Deployment (CI/CD), Infrastructure as Code (IaC), containerization, Container Orchestration (K8s), Cloud Computing (AWS, Azure)
+- Systems Engineering: System design, performance tuning, System Monitoring
+- Tools & Technologies: Docker, Kubernetes, AWS, Terraform, Jenkins, Linux, SonarQube, Bash Scripting
+- Programming language: Python, Java
 
-[linkedin]: https://www.linkedin.com/in/hung-nguyen1909/
-[facebook]: https://www.facebook.com/profile.php?id=100004350407026
+### 🌐 Connect with Me
+- GitHub: [[hu1909](https://github.com/hu1909)]
+- LinkedIn: [[Hung Nguyen](https://www.linkedin.com/in/hung-nguyen1909/)]
 
->
+Feel free to check out my other projects and contributions on my [GitHub repo](https://github.com/hu1909). I'm always open to collaborating on exciting projects and learning new technologies!
+
+
+
