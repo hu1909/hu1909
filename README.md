@@ -1,6 +1,6 @@
 ### Boujour, Je suis Quoc Hung !!! 👋
 
-## I'm a Programmer !!
+## I'm an IT guy !!
 
 
 <p align="center">
