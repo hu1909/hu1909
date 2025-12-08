@@ -9,7 +9,7 @@
 
 
 ## About Me 👨‍💻
-Hi there! I’m Hung, a passionate DevOps which focus on automation, cloud computing, CI/CD pipelines, etc. With almost 2 years of experience in the IT industry, I enjoy solving complex problems and optimizing systems to enhance efficiency and performance.
+Hi there! I’m Hung, a passionate DevOps focusing on automation, cloud computing, CI/CD pipelines, etc. With more than 3 years of experience in the IT industry, I enjoy solving complex problems and optimizing systems to enhance efficiency and performance.
 
 ### 🛠️ My Expertise
 - **DevOps**: Continuous Integration/Continuous Deployment (CI/CD), Infrastructure as Code (IaC), containerization, Container Orchestration (K8s), Cloud Computing (AWS, Azure)
